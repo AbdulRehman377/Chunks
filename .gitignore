@@ -1,29 +1,35 @@
-# Python-related
+# Python
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
+
+# Virtual env
+.env
 venv/
-env/
-*.env
+new_env/
+*.sqlite
+*.db
 
-# VSCode settings (if using VSCode)
+# VS Code
 .vscode/
+*.code-workspace
 
-# IDE-specific files (for example, for PyCharm, IntelliJ)
-.idea/
+# Chroma DB directories
+chroma_db/
+chroma_db_enhanced/
 
-# Mac system files
-.DS_Store
-
-# Windows system files
-Thumbs.db
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Log files
+# Logs & cache
 *.log
 
-# Temporary files
-*.swp
+# Output JSONs — optional if large/generated
+RAW_OCR.json
+ENHANCED_CHUNKS.json
+VECTORDB_READY.json
+
+# PDFs (large binary test files)
+*.pdf
+*.PDF
+
+# System files
+.DS_Store
+Thumbs.db
