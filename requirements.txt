@@ -1,0 +1,35 @@
+# Core LangChain + LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# Vector Store
+chromadb
+langchain-chroma
+
+# API
+fastapi
+uvicorn
+
+# File Processing
+watchdog
+PyPDF2
+pandas
+openpyxl
+
+# Utils
+python-dotenv
+tiktoken
+pydantic
+
+# Azure and Mistral
+azure-ai-documentanalysis
+azure-core
+mistralai
+requests
+
+# Image Processing and PDF Handling
+pdf2image
+Pillow
