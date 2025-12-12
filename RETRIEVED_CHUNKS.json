@@ -1,0 +1,611 @@
+{
+  "query": "summarize the information present in this document",
+  "timestamp": "2025-12-12T19:26:17.699062",
+  "num_chunks": 30,
+  "settings": {
+    "k": 30,
+    "alpha": 0.7
+  },
+  "chunks": [
+    {
+      "rank": 1,
+      "text": "[Source: invoice.pdf | Page 7 | Page 7]\n\nHAWB NO .- AH0102025\n\nAH0102025\n\nShipper's Account Number\n\nShipper's Name and Address\nNVENT ELECTRICAL PRODUCTS INDIA PVT LTD\nPLOT NO. 19B, PHASE 2, SECTOR 1,SHYANAMANGALA CROSS, KIADB\nINDUSTRIAL\nAREA, BIDADI, RAMANAGARA, BANGALORE 562109, KARNATAKA, INDIA\n\nNot Negotiable\nAir Waybill\n\n<!-- PageNumber=\"4\" -->\n\nIssued by\n\nCopies 1, 2 and 3 of this Air Waybill are originals and have the same validity.\n\nConsignee's Name and Address\n\nHITACHI RAIL GTS CANADA INC.\n\n105 MOATFIELD DRIVE, SUITE 100 TORONTO, TORONTO, ON M3B OA4\n\nCANADA\n\nConsignee's Account Number\n\nIt is agreed that the goods delscribed herein are accepted in apparent good order and\ncondition (except as noted) for carriage SUBJECT TO THE CONDITIONS OF CONTRACT ON\nTHE REVERSE HEREOF. ALL GOODS MAY BE CARRIED BY ANY OTHER MEANS INCLUDING\nROAD OR ANY OTHER CARRIER UNLESS SPECIFIC CONTRARY INSTRUCTIONS ARE GIVEN\nHEREON BY THE SHIPPER, AND SHIPPER AGREES THAT THE SHIPMENT MAY BE CARRIED VIA\nINTERMEDIATE STOPPING PLACES WHICH THE CARRIER DEEMS APPROPRIATE. THE\nSHIPPERS ATTENTION IS DRAWN TO THE NOTICE CONCERNING CARRIERS LIMITATION OF\nLIABILITY. Shipper may increase such limitation of liability by declaring a higher value for\ncarriage and paying a supplemental charge if required.\n\nIssuing Carrier's Agent Name and City\n\nABSCO LOGISTICS PVT LTD\n\nAccounting Information\n\nFREIGHT COLLECT\n\n60739148653\n\n.\n\n\n\n\n\nAirport of Departure (Addr. of First Carrier) and Requested Routing\nBANGALORE\n\nReference Number\n\nOptional Shipping Information\n\n\n\n\n\n\n\n\nHandling Information\nPLS INFM TO CNEE UPON ARRIVAL OF CARGO AT THE DEST MARKS AND NOS AS ADD 06 PKGS ONLY\n\nSCI\n\n\n\n\n\nNature and Quantity of Goods\n(incl. Dimensions or Volume)\n,\nRACKFRAMEA1,PERTHALES\nHS CODE : 85381010\nINVNO:202500579\nDT:02.06.2025\n\nDIMS IN CMS:\n137X91X98/2(CMS)\n68X49X94/1(CMS)\n137X91X40/2(CMS)\n68X49X40/1(CMS)\nVOL WT: 647.90 KGS\n\nPrepaid\nWeight Charge\n\nCollect\n\nOther Charges\n\nValuation Charge\n\nTax\n☒\n\nTotal Other Charges Due Agent\n\nShipper certifies that the particulars on the face hereof are correct and that insofar as any part of the\nconsignment contains dangerous goods, such part is properly described by name and is in proper condition for\ncarriage by air according to the applicable Dangerous Goods Regulations.\n\nABSCO.LOGISTICS PVT LTD\nSignature of Shipper or his Agent\n\n☒\nTotal Prepaid\n\nTotal Collect\n\n04/06/2025\n\nBANGALORE\n\nExecuted on (date)\nat (place)\n\nSignature of Issuing Carrier or its Agent\n\nCurrency Conversion Rates\n\nFor Carrier's Use only\nat Destination\n\nCharges at Destination\n\nTotal Collect Charges\n\n1 ORIGINAL 3 (FOR SHIPPER)\n\n\n<figure>\n\nCHENNAI\n600 06\n\n\\*\n\n</figure>\n\n\nTotal Other Charges Due Carrier",
+      "metadata": {
+        "content_type": "text",
+        "page_number": 7,
+        "section": "Page 7"
+      },
+      "scores": {
+        "combined": 0.7668,
+        "bm25": 1.0,
+        "semantic": 0.6669
+      }
+    },
+    {
+      "rank": 2,
+      "text": "[Source: invoice.pdf | Page 2 | Page 2]\n\n# GENERAL CONDITIONS\n\n1\\. Quotations are based on the tariffs, rates, regulations and agreements presently in force in the\nadministration, services, carriers, and handlers used and in relevant international organizations and may\nbe changed or withdrawn without any previous notice, among other cases, in case of force major or\nunforeseen circumstances, in case of change in such agreements, regulations and rates, in case of\ninterruption of traffic, or in case of fluctuations of foreign exchange rates.\n\n2\\. Prices quoted are valid only if the goods are actually forwarded according to the contract or agreement\nand to forwarding instructions which must be given in advance. Unless otherwise specifically agreed,\nprices do not include any tax, fee, royalty or duty levied by customs or other bodies, public or private, nor\ndo they include any accessory expenses such as storage charges, repairs, sheeting and covering.\n\n3\\. Ceva Air & Ocean Canada acts in all matters only as agent of the client and undertakes only to use reasonable\ncare in the selection, if any, of the carriers, stevedores, warehousemen and handlers of the goods. In no\ncase can the liability of Ceva Air & Ocean Canada exceed that of the carriers, stevedores, warehousemen and\nhandlers of the goods.\n\n4\\. Ceva Air & Ocean Canada shall have a privilege, a right of preference and a general lien on the goods to be\nforwarded, on the proceeds of the sale or disposal thereof, on the proceeds of insurance claims and\nother claim settlements, on negotiable instruments, documents of title, for all charge s, expenses and\naccounts even if incurred in connection with previous or unrelated dealings with the client. Whatever the\nterms of payment, these rights, liens and privileges shall have full force and effect, and no novation,\ncompensation, set-off, confusion or delegation may be opposed to Ceva Air & Ocean Canada\n\n5\\. Bills are entirely payable upon presentation; when special terms of payment are granted by drafts, bills of\nexchange or otherwise, any partial payment shall be imputed on the most ancient part of the am ounts\ndue and non payment at the expiration of one of the terms shall automatically render the whole amount\ndue and payable immediately. In any case, interest of 2% a month shall be due on any unpaid balance\nafter 7 days, which is equivalent to an annual rate of 26.8%.\n\n6\\. No insurance will be effected upon the goods without specific written instructions prior to each shipment,\nin which case the goods shall be covered, save notice to the contrary, Ceva Air & Ocean Canada's floating\npolicy, the terms and conditions of that policy, which covers ordinary transit risks only, are available for\nexamination during normal business hours at the office of Ceva Air & Ocean Canada and are deemed to be known\nand agreed to by the shipper and consignees. Clients wishing to effect insu rance on special goods or\nagainst special perils must so request in writing and in such case Ceva Air & Ocean Canada only undertakes to\ncontact recognized insurance brokers to attempt to cover the special goods or special perils, if such\ncoverage is available in the usual insurance markets. In any case, Ceva Air & Ocean Canada acts for the purpose\nof insuring the goods, as agent of the client only and does not in any way guarantee the execution nor\nperformance of the insurer's obligation.\n\n7\\. The client shall always be re sponsible for, among other things:\n\n\\- consular or customs formalities in Canada or abroad\n\n\\- export or import permits\n\n\\- packing of the goods and their marking, addressing and description, weight and measure\n\n8\\. All the contracts between Ceva Air & Ocean Canada and it's clients are governed by the law of Canada and all\ndisputes relating thereto shall be the exclusive jurisdiction of Canadian Courts.",
+      "metadata": {
+        "content_type": "text",
+        "page_number": 2,
+        "section": "Page 2"
+      },
+      "scores": {
+        "combined": 0.7036,
+        "bm25": 0.7967,
+        "semantic": 0.6638
+      }
+    },
+    {
+      "rank": 3,
+      "text": "[Source: invoice.pdf | Table 29 | Page 7]\n\n| Airport of Destination | Requested Flight/Date | Amount of Insurance | INSURANCE - If carrier offers insurance, and such insurance is |\n|---|---|---|---|\n| TORONTO |  |  | to be insured in figures in box marked \"Amount of Insurance\".\nrequested in accordance with the conditions thereof, indicate amount |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 7,
+        "section": "Table 29",
+        "table_index": 28,
+        "row_count": 2,
+        "column_count": 4,
+        "headers": [
+          "Airport of Destination",
+          "Requested Flight/Date",
+          "Amount of Insurance",
+          "INSURANCE - If carrier offers insurance, and such insurance is"
+        ]
+      },
+      "scores": {
+        "combined": 0.6492,
+        "bm25": 0.6224,
+        "semantic": 0.6607
+      }
+    },
+    {
+      "rank": 4,
+      "text": "[Source: invoice.pdf | Table 38 | Page 10]\n\n| Line | Product | Description | Quantity | U/M | Price | Discount | Total Amount |\n|---|---|---|---|---|---|---|---|\n|  |  |  | Net Value |  |  |  | 8,370.00 |\n|  |  |  | Total Value | EXCLUDING | TAX in USD |  | 8,370.00 |\n|  |  |  | Total Value in USD |  |  |  | 8,370.00 |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 10,
+        "section": "Table 38",
+        "table_index": 37,
+        "row_count": 4,
+        "column_count": 8,
+        "headers": [
+          "Line",
+          "Product",
+          "Description",
+          "Quantity",
+          "U/M",
+          "Price",
+          "Discount",
+          "Total Amount"
+        ]
+      },
+      "scores": {
+        "combined": 0.5536,
+        "bm25": 0.292,
+        "semantic": 0.6657
+      }
+    },
+    {
+      "rank": 5,
+      "text": "[Source: invoice.pdf | Table 8 | Page 4]\n\n| 1 Type Code AB | 2 Ws Sub Type | 3 Submission Date 2025/06/16 | Version# 00001 |  | 0497 | 6 MOT 1 | 7 Release Date 8 Gross\n2025/06/08 | 584 | 9 Carrier Code 8C3H |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n|  |  |  |  |  | 0497 |  |  |  |  |  |  |\n|  |  |  | Version# 00001 |  |  |  |  | 584 |  |  |  |\n| 11 Importer BN |  |  |  |  | 13 Broker/Agent Business |  | No. | 15 Cargo Control No. |  |  | 16 Rec of Intent No. |\n| 762005205RM0001 12 Importer Name, Address and Telephone |  |  |  |  | 138038302RM0003 14 Broker/Agent Name |  |  |  |  |  |  |\n|  |  |  | No. |  |  |  |  | 8C3H014566 |  |  |  |\n| HITACHI RAIL GTS CANADA |  |  | INC. |  | CEVA AIR & |  | OCEAN CANADA INC. | 17 Previous Transaction No. |  | 18 Accepted Date |  |\n| 105 | MOATFIELD | DRIVE |  |  | 3400 DOUGLAS-B. |  | FLORIANI |  |  | 2025/06/16 |  |\n| TORONTO | ON |  |  |  | VILLE ST-LAURENT |  | QC | 19 Original Transaction No. |  | 20 Prev Trans | No. Whse |\n| M3B | 0A4 CA |  |  |  | H4S 1V2 CA |  |  |  |  |  |  |\n|  | 416-742-1136 |  |  |  | 5149567870 |  |  | 10819986953398 |  |  |  |\n|  |  |  |  |  |  |  |  | 21 Port of Unlading |  | 22 New Business | No. |\n| 23 Declaration Reason Code 1 |  |  |  | 27 Declaration Reason Code 2 |  |  | 31 | Declaration Reason Code 3 |  |  |  |\n| 24 Declaration Authority Code 1 |  |  |  | 28 Declaration Authority Code 2 |  |  | 32 | Declaration Authority Code 3 |  |  |  |\n| 25 Declaration Remark 1 |  |  |  | 29 Declaration Remark 2 |  |  | 33 | Declaration Remark 3 |  |  |  |\n| 26 Declaration | Appeals | Program 1 |  | 30 Declaration Appeals Program |  |  | 2 34 | Declaration Appeals Program 3 |  |  |  |\n| 35 Notes |  |  |  |  |  |  | Declaration | Totals |  |  |  |\n|  |  |  |  |  | 113 | Total Value | for Duty |  |  | 11,486.15 |  |\n|  |  |  |  |  | 114 | Total | PST/HST |  |  |  | 0.00 |\n|  |  |  |  |  | 115 | Total PST | Cannabis Amount |  |  |  | 0.00 |\n|  |  |  |  |  | 116 | Total | Provincial Alcohol Tax Amount |  |  |  | 0.00 |\n|  |  |  |  |  | 117 | Total | Provincial Tobacco Tax Amount |  |  |  | 0.00 |\n| 131 | Warehouse In |  |  |  | 118 | Declaration | Total Relieved |  |  |  | 0.00 |\n|  |  |  |  |  | 119 | Total | Amount |  |  |  | 574.31 |\n| 132 | Warehouse Out |  |  |  | 120 | Total | Customs Duties |  |  |  | 0.00 |\n|  |  |  |  |  | 121 | Total Excise | Duties |  |  |  | 0.00 |\n| 4a Transaction Number |  |  | RESERVED FOR | CBSA USE | 122 | Total Excise | Taxes |  |  |  | 0.00 |\n|  |  |  |  |  | 123 | Total GST |  |  |  |  | 574.31 |\n|  | 10819986953398 | - Version# | 00001 |  | 124 | Total | Anti-Dumping |  |  |  | 0.00 |\n| I | Amee | Patel |  |  | 125 | Total | Countervailing |  |  |  | 0.00 |\n|  |  |  |  |  | 126 | Total | Surtaxes |  |  |  | 0.00 |\n| acting for. |  |  |  |  | 127 | Total | Safeguards |  |  |  | 0.00 |\n| of | CEVA Air & | Ocean Canada Inc. |  |  | 128 | Total | Interest |  |  |  | 0.00 |\n| hereby\ntrue and | declare that to the best of my knowledge and belief this claim is\ncorrect, complete and substantiated by claimant's records. |  |  |  | 129 | Total Duties | & Taxes with Interest |  |  |  | 574.31 |\n|  | 2025/06/16 |  |  |  | 130 TOTAL |  | DUTIES & TAXES |  |  |  | 574.31 |\n|  | Date |  | Signature |  |  |  |  |  |  |  |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 4,
+        "section": "Table 8",
+        "table_index": 7,
+        "row_count": 36,
+        "column_count": 12,
+        "headers": [
+          "1 Type Code AB",
+          "2 Ws Sub Type",
+          "3 Submission Date 2025/06/16",
+          "Version# 00001",
+          "0497",
+          "6 MOT 1",
+          "7 Release Date 8 Gross\n2025/06/08",
+          "584",
+          "9 Carrier Code 8C3H"
+        ]
+      },
+      "scores": {
+        "combined": 0.5447,
+        "bm25": 0.2728,
+        "semantic": 0.6612
+      }
+    },
+    {
+      "rank": 6,
+      "text": "[Source: invoice.pdf | Table 9 | Page 5]\n\n| 67 COE | 74 Dest Province | 69 Shipment Date | Release Date | 77 Exchange Rate | 41 Purchase Order No. | 42 Freight Charges | 43 POEX |\n|---|---|---|---|---|---|---|---|\n| IN |  | 2025/06/04 | 2025/06/08 | 1.37230 | 4500097723 | 230.00 |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 5,
+        "section": "Table 9",
+        "table_index": 8,
+        "row_count": 2,
+        "column_count": 8,
+        "headers": [
+          "67 COE",
+          "74 Dest Province",
+          "69 Shipment Date",
+          "Release Date",
+          "77 Exchange Rate",
+          "41 Purchase Order No.",
+          "42 Freight Charges",
+          "43 POEX"
+        ]
+      },
+      "scores": {
+        "combined": 0.5288,
+        "bm25": 0.2166,
+        "semantic": 0.6626
+      }
+    },
+    {
+      "rank": 7,
+      "text": "[Source: invoice.pdf | Page 5 | Page 5]\n\n# Commercial Accounting Declaration\n\n36 Vendor - Name, Address and Telephone No.\n\nNVENT ELECTRICAL PROD. INDIA - PLOT NO. 19B, PHASE 2, SECTOR1, BANGLORE IN - PHONE#:\n\n38 Invoice No.\n\n20250604\n\n39 Invoice Value\n8,370.00\n\n40 Inv Curr\nUSD\n\n\n\n\n\n56 Line No.\n\n1\n\n65 COO\n\nIN\n\n70 TT Code\n\n71 Tariff Code\n\n02\n\n58 Classification No.\n\n8538.10.00.00\n\n60 Narrative Description\n\nRACK FRAME A1\n\n\n\n\n\n\n\n\n56 Line No.\n\n2\n\n65 COO\n\nIN\n\n70 TT Code\n\n71 Tariff Code\n\n02\n\n58 Classification No.\n\n60 Narrative Description\nRACK FRAMEA2 , PERTHALES P/N -\n\n\n\n\n\n78 Value for Duty\n\n4,199.24\n\n82 Customs Duty\n\n0.00\n\n83 Excise Tax\n\n0.00\n\n84 Excise Duty\n\n0.00\n\n85 Surtax\n0.00\n\n87 Safeguard\n0.00\n\n86 Anti-Dumping\n\n0.00\n\n88 Countervailing\n0.00\n\n89 Value for Tax\n\n90 GST\n\n91 PST/HST\n\n94 Alc %\n\n92 Prov Alcohol Tax\n0.00\n\n93 Prov Tobacco Tax\n\n0.00\n\n95 Cannabis PST\n\n0.00\n\n100 Commodity Duty & Tax\n\n209.96\n\n56 Line No.\n\n4,199.24\n\n65 COO\n\n70 TT Code\n\n71 Tariff Code\n209.96\n\n58 Classification No.\n\n60 Narrative Description\n\n61 Quantity\n\n62 UOM\n\n75 Value for Currency Conversion\n\nVFD Code\n\nDuty Rate\n\n79 DRP License\n\n80 Spec Auth OIC\n\n81 Spec Auth Permit\n\n\n\n\n\n\n\n\n61 Quantity\n\n62 UOM\n\n75 Value for Currency Conversion\n\nVFD Code\n\nDuty Rate\n\n79 DRP License\n\n80 Spec Auth OIC\n\n81 Spec Auth Permit\n\n\n\n\n\n56 Line No.\n\n65 COO\n\n70 TT Code\n\n71 Tariff Code\n\n58 Classification No.\n\n60 Narrative Description\n\n\n\n\n\n\n\n\n56 Line No.\n\n65 COO\n\n70 TT Code\n\n71 Tariff Code\n\n58 Classification No.\n\n60 Narrative Description\n\n61 Quantity\n\n62 UOM\n\n75 Value for Currency Conversion\n\nVFD Code\n\nDuty Rate\n\n79 DRP License\n\n80 Spec Auth OIC\n\n81 Spec Auth Permit\n\n78 Value for Duty\n\n82 Customs Duty\n\n83 Excise Tax\n\n84 Excise Duty\n\n85 Surtax\n\n87 Safeguard\n\n86 Anti-Dumping\n\n88 Countervailing\n\n89 Value for Tax\n\n90 GST\n\n91 PST/HST\n\n94 Alc %\n\n92 Prov Alcohol Tax\n\n93 Prov Tobacco Tax\n\n95 Cannabis PST\n\n100 Commodity Duty & Tax\n\n\n\n\n\n\n\n\n78 Value for Duty\n\n82 Customs Duty\n83 Excise Tax\n\n84 Excise Duty\n\n85 Surtax\n\n87 Safeguard\n\n86 Anti-Dumping\n\n88 Countervailing\n\n\n\n\n\n37 Purchaser - Name, Address and Telephone No.\n\n0.00\n\n0.00\n\n8538.10.00.00",
+      "metadata": {
+        "content_type": "text",
+        "page_number": 5,
+        "section": "Page 5"
+      },
+      "scores": {
+        "combined": 0.5096,
+        "bm25": 0.1431,
+        "semantic": 0.6668
+      }
+    },
+    {
+      "rank": 8,
+      "text": "[Source: invoice.pdf | Figure 1 | Page 1]\n\nFigure: <figure>\n\nceva\nLOGISTICS\n\n</figure>",
+      "metadata": {
+        "content_type": "figure",
+        "page_number": 1,
+        "section": "Figure 1",
+        "figure_id": "1.1"
+      },
+      "scores": {
+        "combined": 0.49,
+        "bm25": 0.0,
+        "semantic": 0.6999
+      }
+    },
+    {
+      "rank": 9,
+      "text": "[Source: invoice.pdf | Figure 4 | Page 7]\n\nFigure: <figure>\n\nCHENNAI\n600 06\n\n\\*\n\n</figure>",
+      "metadata": {
+        "content_type": "figure",
+        "page_number": 7,
+        "section": "Figure 4",
+        "figure_id": "7.1"
+      },
+      "scores": {
+        "combined": 0.4849,
+        "bm25": 0.0,
+        "semantic": 0.6928
+      }
+    },
+    {
+      "rank": 10,
+      "text": "[Source: invoice.pdf | Figure 5 | Page 9]\n\nFigure: <figure>\n\nnvent\n\n</figure>",
+      "metadata": {
+        "content_type": "figure",
+        "page_number": 9,
+        "section": "Figure 5",
+        "figure_id": "9.1"
+      },
+      "scores": {
+        "combined": 0.4849,
+        "bm25": 0.0,
+        "semantic": 0.6927
+      }
+    },
+    {
+      "rank": 11,
+      "text": "[Source: invoice.pdf | Page 6 | Page 6]\n\nDESCARTES\n\neManifest Housebill Summary\n\n<!-- PageNumber=\"Page 1 of 1\" -->\n\n8C3H014566\n\nHouse Bill CCN\n\n8C3H014566\n\nCompany Name\n\nOcean Transportation Services FF Inc\n\n\n\n\n\n\n\n\nMovement Type\n\n24 - IMPORT\n\nMode\n\n4 - Air\n\nConsolidated\n\nNo\n\nWeight\n\n584 KGM\n\nVolume\n3 MTQ\n\n\n\n\n\n\n\n\n\n\n\nCONTAINERS\n\n/",
+      "metadata": {
+        "content_type": "text",
+        "page_number": 6,
+        "section": "Page 6"
+      },
+      "scores": {
+        "combined": 0.4804,
+        "bm25": 0.0,
+        "semantic": 0.6862
+      }
+    },
+    {
+      "rank": 12,
+      "text": "[Source: invoice.pdf | Table 24 | Page 6]\n\n| Parties |  |  |\n|---|---|---|\n| Shipper | Consolidator | Delivery Address |\n| NVENT ELECTRICAL PRODUCTS PLOT NO. 19B, PHASE 2, SECTOR 1 AREA, BIDADI, |  |  |\n| RAMANAGARA KARNATAKA 562109 India |  |  |\n| Consignee HITACHI RAIL GTS CANADA INC 105 MOATFIELD DR STE 100 | Consolidation Location | Notify Party |\n| TORONTO ON M3B 0A4 Canada |  |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 6,
+        "section": "Table 24",
+        "table_index": 23,
+        "row_count": 6,
+        "column_count": 3,
+        "headers": [
+          "Parties"
+        ]
+      },
+      "scores": {
+        "combined": 0.479,
+        "bm25": 0.0,
+        "semantic": 0.6843
+      }
+    },
+    {
+      "rank": 13,
+      "text": "[Source: invoice.pdf | Table 34 (Key-Value) | Page 9]\n\nGST Invoice: :\nInvoice Date: : 29/05/2025\nDue Date: : 13/07/2025\nSales Order#: : 1671896",
+      "metadata": {
+        "content_type": "table_kv",
+        "page_number": 9,
+        "section": "Table 34",
+        "table_index": 33,
+        "table_type": "key_value",
+        "row_count": 4,
+        "column_count": 2
+      },
+      "scores": {
+        "combined": 0.4778,
+        "bm25": 0.0,
+        "semantic": 0.6825
+      }
+    },
+    {
+      "rank": 14,
+      "text": "[Source: invoice.pdf | Table 32 | Page 8]\n\n| Current Notice: | 0002 - NO MATCH |\n|---|---|\n|  |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 8,
+        "section": "Table 32",
+        "table_index": 31,
+        "row_count": 2,
+        "column_count": 2,
+        "headers": [
+          "Current Notice:",
+          "0002 - NO MATCH"
+        ]
+      },
+      "scores": {
+        "combined": 0.475,
+        "bm25": 0.0,
+        "semantic": 0.6786
+      }
+    },
+    {
+      "rank": 15,
+      "text": "[Source: invoice.pdf | Table 2 (Key-Value) | Page 1]\n\nClient tax id: : 762005205RT\nINV Ref: : 00867930-01\nOrders Ref: :\nShipper ref: :\nConsignee Ref: :\nCCN Ref: : 8C3H014566\nTransaction Number: : 10819986953398",
+      "metadata": {
+        "content_type": "table_kv",
+        "page_number": 1,
+        "section": "Table 2",
+        "table_index": 1,
+        "table_type": "key_value",
+        "row_count": 7,
+        "column_count": 2
+      },
+      "scores": {
+        "combined": 0.4732,
+        "bm25": 0.0,
+        "semantic": 0.6759
+      }
+    },
+    {
+      "rank": 16,
+      "text": "[Source: invoice.pdf | Table 3 (Key-Value) | Page 1]\n\nOperations: :\nDeclaration Ref: : B00903475\nCustomer id/Account nº: : HITRAICATOR/CHIT002",
+      "metadata": {
+        "content_type": "table_kv",
+        "page_number": 1,
+        "section": "Table 3",
+        "table_index": 2,
+        "table_type": "key_value",
+        "row_count": 3,
+        "column_count": 2
+      },
+      "scores": {
+        "combined": 0.4729,
+        "bm25": 0.0,
+        "semantic": 0.6755
+      }
+    },
+    {
+      "rank": 17,
+      "text": "[Source: invoice.pdf | Table 28 | Page 7]\n\n| to | By First Carrier | Routing and Destination | to | by | to | by | Currency | CHGS Code | WT/VAL | Other | Declared Value for Carriage | Declared Value for Customs |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| AUH | EY |  | YYZ | EY |  | EY | INR |  | PPD CLT C | PPD |CLT C | NVD | NVD |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 7,
+        "section": "Table 28",
+        "table_index": 27,
+        "row_count": 2,
+        "column_count": 13,
+        "headers": [
+          "to",
+          "By First Carrier",
+          "Routing and Destination",
+          "to",
+          "by",
+          "to",
+          "by",
+          "Currency",
+          "CHGS Code",
+          "WT/VAL",
+          "Other",
+          "Declared Value for Carriage",
+          "Declared Value for Customs"
+        ]
+      },
+      "scores": {
+        "combined": 0.4726,
+        "bm25": 0.0,
+        "semantic": 0.6751
+      }
+    },
+    {
+      "rank": 18,
+      "text": "[Source: invoice.pdf | Page 4 | Page 4]\n\n<figure>\n\nceva\nLOGISTICS\n\n</figure>\n\n\n### Commercial Accounting Declaration",
+      "metadata": {
+        "content_type": "text",
+        "page_number": 4,
+        "section": "Page 4"
+      },
+      "scores": {
+        "combined": 0.4719,
+        "bm25": 0.0,
+        "semantic": 0.6742
+      }
+    },
+    {
+      "rank": 19,
+      "text": "[Source: invoice.pdf | Table 35 | Page 9]\n\n| Order Date | : 01/03/2024 |  |\n|---|---|---|\n| Customer Order Number | : 4500097723 | Incoterms |\n| Country of Origin of goods | : |  |\n| Country of Final Destination | : Canada |  |\n| Port of Discharge | : By Sea/By Air/By Courier |  |\n| Handler | : Harish G - Harish.g@nVent.com - Phone : |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 9,
+        "section": "Table 35",
+        "table_index": 34,
+        "row_count": 6,
+        "column_count": 3,
+        "headers": [
+          "Order Date",
+          ": 01/03/2024"
+        ]
+      },
+      "scores": {
+        "combined": 0.4717,
+        "bm25": 0.0,
+        "semantic": 0.6738
+      }
+    },
+    {
+      "rank": 20,
+      "text": "[Source: invoice.pdf | Table 25 | Page 6]\n\n| SNP |  |  |\n|---|---|---|\n| Carrier | FF Warehouse 3775 | CHB |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 6,
+        "section": "Table 25",
+        "table_index": 24,
+        "row_count": 2,
+        "column_count": 3,
+        "headers": [
+          "SNP"
+        ]
+      },
+      "scores": {
+        "combined": 0.4712,
+        "bm25": 0.0,
+        "semantic": 0.6732
+      }
+    },
+    {
+      "rank": 21,
+      "text": "[Source: invoice.pdf | Page 3 | Page 3]\n\n<figure>\n\nceva\nLOGISTICS\n\n</figure>\n\n\nDate: 25/06/16 12:42\n\n\n## Shipment Info Sheet - Summary\n\nTransaction Number\n\n10819986953398\n\nShipment Process: SWI\n\nB3 Type:\n\nAB\n\nClient Code:\n\nCHIT002\n\nClient Name:\n\nHITACHI RAIL GTS CANADA INC.\n\nImport Contact:\n\nTelephone:\n\nFax:\n\nE-mail:\n\n\n\n\n\nETA:\n\n25/06/05 1400\n\nMoT:\n\nA\n\nPort:\n\n0497\n\nShipment References\n\nPurchase Order: 4500097723\n\nCartons:\n\n6\n\nWeight:\n\n584.00 KGM\n\nVendor: NVENT ELECTRICAL PROD. INDIA\n\nCargo Control: 8C3H014566\n\nCarrier:\n\nOCEAN TRASNPORTATION\n\nOBL:\n\nMWB:\n\nHWB:\n\nAH0102025\n\nVessel:\n\nCarter Code:\n\nCarter Name:\n\nVFD(CAD):\n\n11,486.15\n\nWHSE Code:\n\n3775\n\nWHSE Name:\n\nSWISSPORT\n\nContainer:\n\nCaller Code: ?\n\n\\# Open Caller Events:\n\n0\n\nLast Complete Stage:\n\nStep2",
+      "metadata": {
+        "content_type": "text",
+        "page_number": 3,
+        "section": "Page 3"
+      },
+      "scores": {
+        "combined": 0.4705,
+        "bm25": 0.0,
+        "semantic": 0.6721
+      }
+    },
+    {
+      "rank": 22,
+      "text": "[Source: invoice.pdf | Table 31 | Page 8]\n\n|  |  |\n|---|---|\n| Previous Cargo Control Number Numero de controle du fret precedent | 607-39148653 |\n| CBSA Date/Time Processed | 2025-06-05 12:33:00 |\n| Date/Time Received | 2025-06-05 12:34:09 |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 8,
+        "section": "Table 31",
+        "table_index": 30,
+        "row_count": 4,
+        "column_count": 2,
+        "headers": []
+      },
+      "scores": {
+        "combined": 0.4703,
+        "bm25": 0.0,
+        "semantic": 0.6719
+      }
+    },
+    {
+      "rank": 23,
+      "text": "[Source: invoice.pdf | Table 33 | Page 8]\n\n| House Bill | Notice | Destination | Discharge | Containers |\n|---|---|---|---|---|\n| 8C3H014566 | 0003 - CARGO COMPLETE | 0497/3775 | / |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 8,
+        "section": "Table 33",
+        "table_index": 32,
+        "row_count": 2,
+        "column_count": 5,
+        "headers": [
+          "House Bill",
+          "Notice",
+          "Destination",
+          "Discharge",
+          "Containers"
+        ]
+      },
+      "scores": {
+        "combined": 0.4695,
+        "bm25": 0.0,
+        "semantic": 0.6707
+      }
+    },
+    {
+      "rank": 24,
+      "text": "[Source: invoice.pdf | Table 16 | Page 5]\n\n| 61 Quantity | 62 UOM | 75 Value for Currency Conversion | VFD Code | Duty Rate | 79 DRP License 80 Spec Auth OIC | 81 Spec Auth Permit |\n|---|---|---|---|---|---|---|\n|  |  |  |  |  |  |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 5,
+        "section": "Table 16",
+        "table_index": 15,
+        "row_count": 2,
+        "column_count": 7,
+        "headers": [
+          "61 Quantity",
+          "62 UOM",
+          "75 Value for Currency Conversion",
+          "VFD Code",
+          "Duty Rate",
+          "79 DRP License 80 Spec Auth OIC",
+          "81 Spec Auth Permit"
+        ]
+      },
+      "scores": {
+        "combined": 0.4688,
+        "bm25": 0.0,
+        "semantic": 0.6697
+      }
+    },
+    {
+      "rank": 25,
+      "text": "[Source: invoice.pdf | Table 36 | Page 9]\n\n| Line Product Description | Quantity | U/M | Price | Discount | Total Amount |\n|---|---|---|---|---|---|\n| Five Plywood Boxes |  |  |  |  |  |\n| L1370MM X W980MM X H970MM |  |  |  |  |  |\n| Gross Wt : 125 Kgs Net Wt : 105 Kgs |  |  |  |  |  |\n| L680MM X W500MM X H580MM |  |  |  |  |  |\n| Gross Wt : 60 Kgs Net Wt : 50 Kgs |  |  |  |  |  |\n| Total Gross Wt : 560 Kgs Total Net Wt : 470 Kgs |  |  |  |  |  |\n| 10 12820645 RACK FRAMEA1,PERTHALES P/N -67844222AA Cust Part. Number: 67844222AA HSN Code :: 85381010 | 9 | EA | 590.00 |  | 5,310.00 |\n| RACK FRAME A1, PER THALES P/N - 3CU10134AEAA-HDZZA R0 |  |  |  |  |  |\n| 21 12820646 | 9 | EA | 340.00 |  | 3,060.00 |\n| RACK FRAMEA2,PERTHALES P/N -67844226AA Cust Part. Number: 67844226AA HSN Code: 85381010 RACK FRAME A2, PER THALES P/N - 3CU10206CDAA-HDZZA REV01 |  |  |  |  |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 9,
+        "section": "Table 36",
+        "table_index": 35,
+        "row_count": 11,
+        "column_count": 6,
+        "headers": [
+          "Line Product Description",
+          "Quantity",
+          "U/M",
+          "Price",
+          "Discount",
+          "Total Amount"
+        ]
+      },
+      "scores": {
+        "combined": 0.4682,
+        "bm25": 0.0,
+        "semantic": 0.6688
+      }
+    },
+    {
+      "rank": 26,
+      "text": "[Source: invoice.pdf | Table 1 (Key-Value) | Page 1]\n\nNº: : F250335786\nDate: : 16-Jun-25\nDue On: : 16-Jul-25\nTerms: : 30 days from Inv. Date\nEdited by: : CargoWise One Service",
+      "metadata": {
+        "content_type": "table_kv",
+        "page_number": 1,
+        "section": "Table 1",
+        "table_index": 0,
+        "table_type": "key_value",
+        "row_count": 5,
+        "column_count": 2
+      },
+      "scores": {
+        "combined": 0.468,
+        "bm25": 0.0,
+        "semantic": 0.6685
+      }
+    },
+    {
+      "rank": 27,
+      "text": "[Source: invoice.pdf | Page 10 | Page 10]\n\n<figure>\n\nnvent\n\n</figure>\n\n\n## PROFORMA INVOICE\n\nOriginal\n\n<!-- PageNumber=\"Page : 2 of 2\" -->\n\n\n\n\n\n\n\n\nnVent Electrical Products India Pvt Ltd.\n\nPlot No. 19B, Phase 2, Sector 1, Shyanamangala Cross,\n,For nVent Electrical Products India Pvt Ltd.\nKIADB Industrial Area, Bidadi, Ramanagara, Bangalore, Karnataka, 562109.\n\nAccount No: 521066024\n\nSwift Code: CITIINBX\n\nIFSC Code: CITI0000004\n\nGSTN - 29AAECP6887H1ZQ\n\nAddress of Bank: Citibank NA, 2nd Floor, Ranga Complex, 5 M.G. Road, Bangalore - 560001, India\n\nAuthorised Signatory",
+      "metadata": {
+        "content_type": "text",
+        "page_number": 10,
+        "section": "Page 10"
+      },
+      "scores": {
+        "combined": 0.4667,
+        "bm25": 0.0,
+        "semantic": 0.6668
+      }
+    },
+    {
+      "rank": 28,
+      "text": "[Source: invoice.pdf | Table 21 | Page 6]\n\n| Status Summary |  |  |\n|---|---|---|\n| Application ACCEPTED | ACI CARGO COMPLETE | Disposition NONE |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 6,
+        "section": "Table 21",
+        "table_index": 20,
+        "row_count": 2,
+        "column_count": 3,
+        "headers": [
+          "Status Summary"
+        ]
+      },
+      "scores": {
+        "combined": 0.4667,
+        "bm25": 0.0,
+        "semantic": 0.6668
+      }
+    },
+    {
+      "rank": 29,
+      "text": "[Source: invoice.pdf | Table 30 | Page 7]\n\n| No. of Pieces | Gross Weight | kg lb |  |  | Commodity Item No. | Chargeable Weight | :selected: Rate Charges | Total |\n|---|---|---|---|---|---|---|---|---|\n|  |  |  |  |  | Commodity Item No. |  |  |  |\n| 6 | 584.00 | K | Q |  |  | 648 | AS AGREED |  |\n| 6 | 584.00 |  |  |  |  |  |  |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 7,
+        "section": "Table 30",
+        "table_index": 29,
+        "row_count": 4,
+        "column_count": 9,
+        "headers": [
+          "No. of Pieces",
+          "Gross Weight",
+          "kg lb",
+          "Commodity Item No.",
+          "Chargeable Weight",
+          ":selected: Rate Charges",
+          "Total"
+        ]
+      },
+      "scores": {
+        "combined": 0.4665,
+        "bm25": 0.0,
+        "semantic": 0.6664
+      }
+    },
+    {
+      "rank": 30,
+      "text": "[Source: invoice.pdf | Table 12 | Page 5]\n\n| 61 Quantity | 62 UOM | 75 Value for Currency Conversion | VFD Code | Duty Rate | 79 DRP License | 80 Spec Auth OIC | 81 Spec Auth Permit |\n|---|---|---|---|---|---|---|---|\n|  |  | 3,060.00 | 13 | 0.00 |  |  |  |",
+      "metadata": {
+        "content_type": "table",
+        "page_number": 5,
+        "section": "Table 12",
+        "table_index": 11,
+        "row_count": 2,
+        "column_count": 8,
+        "headers": [
+          "61 Quantity",
+          "62 UOM",
+          "75 Value for Currency Conversion",
+          "VFD Code",
+          "Duty Rate",
+          "79 DRP License",
+          "80 Spec Auth OIC",
+          "81 Spec Auth Permit"
+        ]
+      },
+      "scores": {
+        "combined": 0.4659,
+        "bm25": 0.0,
+        "semantic": 0.6656
+      }
+    }
+  ]
+}

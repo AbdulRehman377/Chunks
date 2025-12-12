@@ -4,10 +4,12 @@ langchain-core
 langchain-community
 langchain-openai
 langgraph
+openai
 
 # Vector Store
 chromadb
 langchain-chroma
+rank-bm25
 
 # API
 fastapi
@@ -18,6 +20,7 @@ watchdog
 PyPDF2
 pandas
 openpyxl
+beautifulsoup4
 
 # Utils
 python-dotenv
